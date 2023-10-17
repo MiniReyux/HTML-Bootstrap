@@ -1,0 +1,44 @@
+body {
+    background-color: #672A4E;
+}
+
+a.nav-link {
+    color:#D5FFF3;
+}
+
+h1.text-center {
+    font-size: 40px;
+    color: #2B1221;
+}
+
+h3 {
+    font-size: 30px;
+    color:#D5FFF3;
+}
+
+h3.tsc {
+    color: #131416;
+    }
+
+h3.jp {
+    color:#D5FFF3;
+    }
+
+p {
+    color:#D5FFF3;
+    }
+
+sbimg {
+    color: #131416;
+    font-weight: bold;
+    font-size: 15px;
+    }
+
+input {
+    color: #212427;
+    font-weight: bold;
+}
+
+li {
+    color: #131416;
+}
